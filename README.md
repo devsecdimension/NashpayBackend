@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/100/external-payment-fintech-flat-juicy-fish.png" width="100" height="100" />
+  <img src="[https://img.icons8.com/external-flat-juicy-fish/100/external-payment-fintech-flat-juicy-fish.png](https://nash.pk/images/logo.png)" width="100" height="100" />
   <h1>NashPay Backend API WORK</h1>
   <p><b>A Secure, Scalable, and High-Performance Fintech Payment Gateway Solution</b></p>
 
