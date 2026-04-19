@@ -1,0 +1,6 @@
+@NashPay.API_HostAddress = http://localhost:5054
+
+GET {{NashPay.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

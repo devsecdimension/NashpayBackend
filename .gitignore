@@ -1,0 +1,12 @@
+# Visual Studio temporary files
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET temporary files
+.tools/
+.pfx
+.publishsettings
